@@ -1,5 +1,8 @@
 ### Hi there 👋
 
+- 🌱 I’m currently learning about AI and ChatGPT
+- 💬 Ask me about Blockchain, Algorand, DAOs, Online community governance, Central Bank Digital Currencies (CBDCs), JavaScript and Web Standards
+
 <!--
 **naveedi/naveedi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
